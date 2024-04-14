@@ -2,10 +2,12 @@
 
 在线源订阅地址：
 
-https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json
+https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/api.json
 
-在线源订阅地址（去广告）：
+阿里云盘资源使用方法：二〇二四/主页→云盘登录→使用阿里云盘app扫描二维码
 
-https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api2.json
+夸克网盘资源使用方法：二〇二四/主页→配置中心→输入夸克cookie
 
-云盘资源需要登录：豆瓣→阿里云盘登录
+# TVBox系列软件
+
+https://www.123pan.com/s/sPNbVv-aYuXv
